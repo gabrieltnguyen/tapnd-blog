@@ -34,9 +34,9 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/gabrieltnguyen/tapnd-blog/blob/main/agile/burndown/index.md"
+    URL: "https://github.com/gabrieltnguyen/tapnd-blog/tree/main/agile/burndown/index.md"
     Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    appendFilePath: false # to append file path to Edit link
 ---
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
