@@ -48,10 +48,7 @@ Burndown Chart là biểu đồ thể hiện tiến độ hoàn thành công vi�
 Burndown Chart được biểu diễn dưới dạng một đường cong xuống về phía bên phải của biểu đồ, thể hiện tổng số lượng công việc cần hoàn thành trong sprint. Trong khi đó, đường cong thực tế thể hiện số lượng công việc đã hoàn thành trong mỗi ngày của sprint. Khi đường cong thực tế tiến đến đường cong kế hoạch, chúng ta biết rằng tiến độ của sprint đang được đảm bảo đúng kế hoạch.
 
 {{< figure align=center src="burndown.png" >}}
-*Picture center*
-
-![Picture Here](burndown.png "Cover picture")
-*Picture left*
+*Burndown chart*
 
 ## Cách sử dụng Burndown Chart để phân tích tiến độ và điều chỉnh sprint
 

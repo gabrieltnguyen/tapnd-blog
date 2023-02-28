@@ -13,7 +13,7 @@ draft: false
 hidemeta: false
 comments: false
 # Description also display in the post share
-description: "Đây là bài post đầu tiên của tôi và tôi rất vui khi được chia sẻ với các bạn. Trong bài post này, tôi sẽ giới thiệu về câu lệnh "Hello world" - một trong những câu lệnh đầu tiên mà mọi lập trình viên đều biết và tôi cũng sẽ lưu lại những cú pháp mà tôi sẽ sử dụng trong trang blog của mình."
+description: "Đây là bài post đầu tiên của tôi và tôi rất vui khi được chia sẻ với các bạn. Trong bài post này, tôi sẽ giới thiệu về câu lệnh 'Hello world' - một trong những câu lệnh đầu tiên mà mọi lập trình viên đều biết và tôi cũng sẽ lưu lại những cú pháp mà tôi sẽ sử dụng trong trang blog của mình."
 canonicalURL: "https://tapnd.com/blog/first-post"
 disableHLJS: false # to disable highlightjs
 disableShare: false
